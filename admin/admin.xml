@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<admins>
+    <admin adminID="208">
+        <email>a@gmail.com</email>
+        <password>a</password>
+    </admin>
+</admins>

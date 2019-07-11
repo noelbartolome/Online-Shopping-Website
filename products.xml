@@ -1,0 +1,105 @@
+<?xml version="1.0"?>
+<products>
+  <SMARTPHONES>
+    <product prodID="1">
+      <prodName>Xiaomi Redmi Note 4X</prodName>
+      <prodPrice>7499</prodPrice>
+      <prodImg>images/xiaomi-redmi-note-4x-1.jpg</prodImg>
+      <prodQty>15</prodQty>
+    </product>
+    <product prodID="2">
+      <prodName>Apple iPhone X</prodName>
+      <prodPrice>69999</prodPrice>
+      <prodImg>images/apple-iphone-x-new-1.jpg</prodImg>
+      <prodQty>11</prodQty>
+    </product>
+    <product prodID="3">
+      <prodName>Samsung Galaxy J7 Pro</prodName>
+      <prodPrice>16999</prodPrice>
+      <prodImg>images/samsung-galaxy-j7-2017-sm-j730-2.jpg</prodImg>
+      <prodQty>19</prodQty>
+    </product>
+    <product prodID="4">
+      <prodName>Razer Phone</prodName>
+      <prodPrice>45999</prodPrice>
+      <prodImg>images/razer-phone-1.jpg</prodImg>
+      <prodQty>9</prodQty>
+    </product>
+    <product prodID="5">
+      <prodName>Google Pixel 2 XL</prodName>
+      <prodPrice>30999</prodPrice>
+      <prodImg>images/google-pixel-xl2-1.jpg</prodImg>
+      <prodQty>30</prodQty>
+    </product>
+    <product prodID="6">
+      <prodName>Asus Zenfone 3 Laser</prodName>
+      <prodPrice>7499</prodPrice>
+      <prodImg>images/asus-zenfone-3-laser-zc551kl-1.jpg</prodImg>
+      <prodQty>10</prodQty>
+    </product>
+    <product prodID="7">
+      <prodName>Samsung Galaxy Note 8</prodName>
+      <prodPrice>45999</prodPrice>
+      <prodImg>images/samsung-galaxy-note-8-sm-n950-5.jpg</prodImg>
+      <prodQty>20</prodQty>
+    </product>
+    <product prodID="8">
+      <prodName>Xiaomi Mi A1 Android One</prodName>
+      <prodPrice>11999</prodPrice>
+      <prodImg>images/xiaomi-mi-a1-2.jpg</prodImg>
+      <prodQty>15</prodQty>
+    </product>
+    <product prodID="13">
+      <prodName>Dell Inspiron 15.5" i3</prodName>
+      <prodPrice>21999</prodPrice>
+      <prodImg>images/16.jpg</prodImg>
+      <prodQty>10</prodQty>
+    </product>
+    <product prodID="14">
+      <prodName>test item</prodName>
+      <prodPrice>12333</prodPrice>
+      <prodImg>images/asus-zenfone-2-laser-ze500-1.jpg</prodImg>
+      <prodQty>20</prodQty>
+    </product>
+    <product prodID="15">
+      <prodName>Nokia 6</prodName>
+      <prodPrice>12999</prodPrice>
+      <prodImg>images/nokia-6-white1.jpg</prodImg>
+      <prodQty>25</prodQty>
+    </product>
+  </SMARTPHONES>
+  <LAPTOPS>
+    <product prodID="9">
+      <prodName>Acer Aspire ES1-433-38DR</prodName>
+      <prodPrice>69950</prodPrice>
+      <prodImg>images/1.jpg</prodImg>
+      <prodQty>15</prodQty>
+    </product>
+    <product prodID="10">
+      <prodName>Asus X441N-GA023C</prodName>
+      <prodPrice>21490</prodPrice>
+      <prodImg>images/8.jpg</prodImg>
+      <prodQty>15</prodQty>
+    </product>
+    <product prodID="11">
+      <prodName>ASUS VivoBook F510UA FHD Laptop</prodName>
+      <prodPrice>39995.50</prodPrice>
+      <prodImg>images/13.jpg</prodImg>
+      <prodQty>25</prodQty>
+    </product>
+    <product prodID="12">
+      <prodName>Dell Inspiron 15 i3168-5703BLU</prodName>
+      <prodPrice>22249</prodPrice>
+      <prodImg>images/15.jpg</prodImg>
+      <prodQty>15</prodQty>
+    </product>
+  </LAPTOPS>
+  <MACHINE>
+    <product prodID="16">
+      <prodName>Problem</prodName>
+      <prodPrice>500</prodPrice>
+      <prodImg>images/huawei-gr3-2017.jpg</prodImg>
+      <prodQty>13</prodQty>
+    </product>
+  </MACHINE>
+</products>

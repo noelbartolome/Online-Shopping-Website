@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<transactions>
+  <transaction transID="1">
+    <custID>1</custID>
+    <custName>Allen Ronquillo Villanueva</custName>
+    <custTotal>69999</custTotal>
+    <custDate>2018/05/29 08:57:45 AM</custDate>
+    <product>
+      <prodName>Apple iPhone X</prodName>
+      <prodQty>1</prodQty>
+    </product>
+  </transaction>
+  <transaction transID="2">
+    <custID>1</custID>
+    <custName>Allen Ronquillo Villanueva</custName>
+    <custTotal>16999</custTotal>
+    <custDate>2018/05/29 09:19:16 AM</custDate>
+    <product>
+      <prodName>Samsung Galaxy J7 Pro</prodName>
+      <prodQty>1</prodQty>
+    </product>
+  </transaction>
+  <transaction transID="3">
+    <custID>1</custID>
+    <custName>Allen Ronquillo Villanueva</custName>
+    <custTotal>1000</custTotal>
+    <custDate>2018/05/29 03:47:08 PM</custDate>
+    <product>
+      <prodName>Problem</prodName>
+      <prodQty>2</prodQty>
+    </product>
+  </transaction>
+  <transaction transID="4">
+    <custID>1</custID>
+    <custName>Allen Ronquillo Villanueva</custName>
+    <custTotal>77498</custTotal>
+    <custDate>2019/04/22 03:11:03 PM</custDate>
+    <product>
+      <prodName>Apple iPhone X</prodName>
+      <prodQty>1</prodQty>
+    </product>
+    <product>
+      <prodName>Xiaomi Redmi Note 4X</prodName>
+      <prodQty>1</prodQty>
+    </product>
+  </transaction>
+</transactions>

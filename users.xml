@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<users>
+  <user custID="1">
+    <fullName>Allen Ronquillo Villanueva</fullName>
+    <email>allenvillanueva8@gmail.com</email>
+    <password>allen19</password>
+    <wishitem>
+      <prodID>5</prodID>
+      <prodName>Google Pixel 2 XL</prodName>
+      <prodPrice>30999</prodPrice>
+      <prodImg>images/google-pixel-xl2-1.jpg</prodImg>
+    </wishitem>
+    <wishitem>
+      <prodID>1</prodID>
+      <prodName>Xiaomi Redmi Note 4X</prodName>
+      <prodPrice>7,499.00</prodPrice>
+      <prodImg>images/xiaomi-redmi-note-4x-1.jpg</prodImg>
+    </wishitem>
+  </user>
+  <user custID="3">
+    <fullName>Allen Villanueva</fullName>
+    <email>allenvillanueva18@gmail.com</email>
+    <password>galaxyyd</password>
+  </user>
+</users>
